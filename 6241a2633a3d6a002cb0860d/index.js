@@ -26,7 +26,6 @@ export async function createInstantEvent(req, res) {
         let randomX = Math.random()
         let randomY = Math.random()
         await instant_event_col.insert({date: now, position:{type: "Point", coordinates:[randomY,randomX]}, event}).catch(console.log);
-        
     }
 	return res.status(201).send("Spica is awesome!");
 }
