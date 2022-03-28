@@ -1,0 +1,20 @@
+{
+  "name": "market-agent",
+  "description": "No description.",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/bucket": "^0.9.18",
+    "@spica-devkit/database": "^0.9.17",
+    "@spica-devkit/identity": "^0.9.17",
+    "axios": "^0.25.0",
+    "ethers": "^5.5.4",
+    "jwt-decode": "^3.1.2"
+  }
+}

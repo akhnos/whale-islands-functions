@@ -1,0 +1,16 @@
+{
+  "name": "mailer-api",
+  "description": "No description.",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/bucket": "^0.9.18",
+    "nodemailer": "^6.7.3"
+  }
+}

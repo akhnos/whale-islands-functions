@@ -1,0 +1,16 @@
+{
+  "name": "migration",
+  "description": "No description.",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/database": "^0.9.17",
+    "ethers": "^5.5.4"
+  }
+}

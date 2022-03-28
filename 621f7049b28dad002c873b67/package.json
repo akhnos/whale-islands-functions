@@ -1,0 +1,16 @@
+{
+  "name": "marketplace-datas",
+  "description": "No description.",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/database": "^0.9.18",
+    "jwt-decode": "^3.1.2"
+  }
+}

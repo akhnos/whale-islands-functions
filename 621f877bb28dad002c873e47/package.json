@@ -1,0 +1,20 @@
+{
+  "name": "import-export bucket-data",
+  "description": "Import-export bucket-data",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/bucket": "^0.9.17",
+    "@spica-devkit/database": "^0.9.17",
+    "adm-zip": "^0.5.9",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.7",
+    "xlsx": "^0.18.2"
+  }
+}

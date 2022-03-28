@@ -1,0 +1,20 @@
+{
+  "name": "authorization",
+  "description": "No description.",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/bucket": "^0.9.18",
+    "@spica-devkit/database": "^0.9.18",
+    "@spica-devkit/identity": "^0.9.18",
+    "axios": "^0.21.4",
+    "ethers": "^5.6.1",
+    "jwt-decode": "^3.1.2"
+  }
+}
