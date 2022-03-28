@@ -11,8 +11,6 @@ const NEWS_BUCKET = process.env.NEWS_BUCKET_ID;
 const USER_PRODUCT_BUCKET = process.env.USER_PRODUCT_BUCKET_ID;
 const USER_BUCKET = process.env.USER_BUCKET_ID;
 
-
-
 const PUBLIC_URL = process.env.__INTERNAL__SPICA__PUBLIC_URL__;
 
 let db;
